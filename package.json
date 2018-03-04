@@ -1,0 +1,19 @@
+{
+  "name": "mirrorAgent",
+  "version": "1.0.0",
+  "description": "镜像代理器",
+  "main": "index.js",
+  "scripts": {
+	  "start": "node index"
+  },
+  "author": "Heathcliff",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heathcliff-hu/mirrorAgent.git"
+  }
+}
